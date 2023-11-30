@@ -3,8 +3,6 @@ tgkey = "6643423344:AAFKVM8tTOXRslCzKHBYQQG59otrffdCdKs"
 db_mem = 5
 db_name = "vvot12-db-photo-face"
 
-folder_id = "b1gf8daipll24d9lidh4"
-
 func_tg_bot_name = "vvot12-bot"
 func_face_cut_name = "vvot12-face_cut"
 func_face_detection_name = "vvot12-face_detection"
