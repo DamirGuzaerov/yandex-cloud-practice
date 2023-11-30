@@ -1,5 +1,3 @@
-tgkey = "6643423344:AAFKVM8tTOXRslCzKHBYQQG59otrffdCdKs"
-
 db_mem = 5
 db_name = "vvot12-db-photo-face"
 
