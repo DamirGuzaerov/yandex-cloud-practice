@@ -4,8 +4,8 @@ db_mem = 5
 db_name = "vvot12-db-photo-face"
 
 func_tg_bot_name = "vvot12-bot"
-func_face_cut_name = "vvot12-face_cut"
-func_face_detection_name = "vvot12-face_detection"
+func_face_cut_name = "vvot12-face-cut"
+func_face_detection_name = "vvot12-face-detection"
 
 faces_bucket_name = "vvot12-faces"
 photo_bucket_name = "vvot12-photo"
